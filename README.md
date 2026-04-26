@@ -1,28 +1,29 @@
-# 🧬 Hi, I'm Lais Maciel
+# 🧬 # 📊 Hi, I'm Lais Maciel
 
-I am a **Biomedical Scientist** and **Academic Researcher** specializing in Genetics and Bioinformatics. My work focuses on bridging the gap between molecular biology and computational analysis, utilizing **Python, R, and SQL** to transform complex biological data into clinical insights.
+I am a **Data Analyst** and **Biomedical Scientist** specialized in transforming complex information into strategic insights. With a strong background in **Python, R, and SQL**, I focus on data manipulation, process automation, and analytical intelligence.
 
-I am currently entering a Master's degree program, with a solid background in hematological pathophysiology and systematic reviews. My goal is to build scalable, data-driven solutions for the healthcare and biotechnology sectors.
-
----
-
-### 🧠 About Me
-
-* 🔬 **Biomedical Scientist** with expertise in Genetics and Hematology.
-* 🎓 **Master's Student** in Bioinformatics & Data Science.
-* 💻 **Data-Driven Researcher** focused on Python automation and genomic pipelines.
-* 🧬 **Genetics Specialist** focused on molecular diagnostics and data integration..
+Currently pursuing a **Master's degree in Genetics and Molecular Biology**, I combine the rigor of scientific methodology with modern data engineering tools to build efficient and scalable solutions.
 
 ---
 
-### 🛠 Technologies and Tools
+### 🧠 Professional Focus
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* 📈 **Data Analytics:** Expertise in cleaning, analyzing, and visualizing complex datasets using Python and R.
+* 🗄️ **Database Management:** Skilled in SQL for data extraction, manipulation, and modeling.
+* 🤖 **Automation:** Developing Python scripts to optimize workflows and reduce manual tasks.
+* 🧬 **Domain Expertise:** Deep understanding of the Healthcare and Biotechnology sectors, providing a unique perspective on data interpretation.
 
-* **Programming:** Python (Data Science & Scripting), R (Bioinformatics & Stats)
-* **Data Management:** SQL, Database Design for Biological Repositories.
-* **Specialties:** Genomic Sequencing Analysis, Pathophysiology, Meta-analysis.
-* **Core Values:** Scientific Rigor, Objectivity, and Clean Code.
+---
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+* **Languages:** Python (Pandas, NumPy, Matplotlib), R (Tidyverse, ggplot2).
+* **Databases:** SQL (PostgreSQL, MySQL), ETL Processes.
+* **Tools:** Git/GitHub, VS Code, Linux Environments.
+* **Methodologies:** Data Cleaning, Statistical Analysis, Scientific Rigor.
+
 
 ---
 
