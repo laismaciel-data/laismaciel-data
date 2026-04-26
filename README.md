@@ -11,7 +11,7 @@ I am currently entering a Master's degree program, with a solid background in he
 * 🔬 **Biomedical Scientist** with expertise in Genetics and Hematology.
 * 🎓 **Master's Student** in Bioinformatics & Data Science.
 * 💻 **Data-Driven Researcher** focused on Python automation and genomic pipelines.
-* 📊 **Methodology Expert** in meta-analysis and systematic reviews.
+* 🧬 **Genetics Specialist** focused on molecular diagnostics and data integration..
 
 ---
 
